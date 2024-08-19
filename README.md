@@ -3,6 +3,14 @@
 attacker : BestITWorld
 sender(victim) : Apple_71
 
+### network 1
+
+<img src = "https://github.com/user-attachments/assets/ac675d93-6dfd-4a8f-a635-b5302e8cc8be" width="400" height="400">
+
+### network 2
+<img src = "https://github.com/user-attachments/assets/82173df7-de00-4c19-b6a3-4a5ed3e4c8cf" width="400" height="400">
+<img src = "https://github.com/user-attachments/assets/622c3c0d-ef1b-41d0-832a-2c67d063ff0b" width="400" height="400">
+
 ## Victim
 ### Victim(sender) ifconfig
 <img width="554" alt="스크린샷 2024-08-19 오전 9 04 13" src="https://github.com/user-attachments/assets/ad4ad91e-c086-4343-a7dd-358abe0cace5">
